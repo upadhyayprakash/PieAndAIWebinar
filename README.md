@@ -1,26 +1,23 @@
 # PieAndAIWebinar
-Notes for PieAndAI Webinar on ML Deployments | 4th April 2020
+	Short Notes on the Pie & AI | AI Deployment Webinar on 4th April, 2020
+
+### Chris: (Topics discussed)
+- CI & CD for ML Deployment
+- Docker for Virtualization
+- Kubernetes
+- Jenkins with GitHub
+- GitLab
+- Hadoop/Spark for Data Pipeline
+
+### Sebastian: (Topics discussed)
+- Articles Suggested:
+	- Taking ML from Pilot to Production:
+		https://www.industryweek.com/technology-and-iiot/article/22028709/taking-your-ai-projects-from-pilot-to-production
+	- Keep revisiting the ML model for any new addition to Data features or requirement.
+	- Coursera: "TensorFlow: Data and Deployment Specialization"
 
 
-Short Notes on the Pie & AI | AI Deployment Webinar on 4th April, 2020
-
-Chris: (Topics discussed)
-	- CI & CD for ML Deployment
-	- Docker for Virtualization
-	- Kubernetes
-	- Jenkins with GitHub
-	- GitLab
-	- Hadoop/Spark for Data Pipeline
-
-Sebastian: (Topics discussed)
-	Articles Suggested:
-		- Taking ML from Pilot to Production:
-			https://www.industryweek.com/technology-and-iiot/article/22028709/taking-your-ai-projects-from-pilot-to-production
-		- Keep revisiting the ML model for any new addition to Data features or requirement.
-		- Coursera: "TensorFlow: Data and Deployment Specialization"
-
-
-Brian Muhia's: (Topics discussed)
+### Brian Muhia's: (Topics discussed)
 -Class Imbalancing Techniques:
   - Sampling(same no. of samples per class)
   - Play with Loss Functions(check loss functions designed for tackling Class imbalancing)
@@ -51,20 +48,20 @@ Brian Muhia's: (Topics discussed)
 		- Lacking data diversity
 		- Class-Imbalancing: Solved by Oversampling, label Smoothing
 
-Mia Zhao
-	- Shadow Testing
-	- MAP
-	- Open Source Tools:
-		- Bighead
-		- Zipline
-		- Airflow
-	- Model Metrics vs Business Metrics
-	- Managing Expectations
-	- Customer Involvement(Design Thinking)
-	- User Experience(Reliable Model services, without Breaking)
-	- Service Monitoring
+### Mia Zhao
+- Shadow Testing
+- MAP
+- Open Source Tools:
+	- Bighead
+	- Zipline
+	- Airflow
+- Model Metrics vs Business Metrics
+- Managing Expectations
+- Customer Involvement(Design Thinking)
+- User Experience(Reliable Model services, without Breaking)
+- Service Monitoring
 
-Billy
+### Billy
 - Privacy & Security
 - ML Privacy in Production
 - Tracking Data Movement
