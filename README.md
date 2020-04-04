@@ -48,7 +48,7 @@
 		- Lacking data diversity
 		- Class-Imbalancing: Solved by Oversampling, label Smoothing
 
-### Mia Zhao
+### Mia Zhao (Topics discussed)
 - Shadow Testing
 - MAP
 - Open Source Tools:
@@ -61,7 +61,7 @@
 - User Experience(Reliable Model services, without Breaking)
 - Service Monitoring
 
-### Billy
+### Billy (Topics discussed)
 - Privacy & Security
 - ML Privacy in Production
 - Tracking Data Movement
@@ -80,5 +80,7 @@
 - GDPR:
   - App Policy Framework
   
+### Scott Clendaniel (Topics discussed)
 
-- Thanks to each speakers (Brian, Sebastian, Billy, Mia, Chris) for covering your insights.
+
+Thanks to each speakers (Brian, Sebastian, Billy, Mia, Chris) for covering your insights.
