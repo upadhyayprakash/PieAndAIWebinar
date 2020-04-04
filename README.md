@@ -81,6 +81,30 @@ Short Notes on the Pie & AI | AI Deployment Webinar on 4th April, 2020
 	- App Policy Framework
   
 ### Scott Clendaniel (Topics discussed)
-- .
+- Yawning Gulfs
+- 85% of Projects never make it.
+- Top 10 TIPS for AI Deployment
+	SOURCE: https://www.projectmanager.com/blog/10-project-constraints-that-endanger-your-projects-success
+	1. BEGIN WITH THE END IN MIND
+		- Book, '7 habits of Highly effective people'
+		- Project the FUTURE in the PRESENT
+	2. IDENTIFY YOUR STAKEHOLDER'S NEEDS AND GOALS
+		- Take human as the most critical part of the system. Orient your goals with their GOALS and Concerns.
+		- FACT: Any NN is risky for Financial usecases in US.
+	3. IDENTIFY MODEL/PROJECT CONTSTRAINTS
+		- Clients constraints
+	4. RISK
+		- "Phase-Gate Model" (https://www.iamip.com/upl/images/604606/phase-gate-model.png)
+		- E.g. predicting the 'Monday' forecast for the share market, based on the data of Tuesday forecasts.
+	5. PLANNING FOR OBSOLESCENES:
+	6. PLAN AROUND THE ANALYTICS MATURITY MODEL:
+		https://www.gartner.com/smarterwithgartner/the-cios-guide-to-artificial-intelligence/
+	7. VALIDATION OVERKILL:
+		- Use Cross-Validation(shuffling the Training and Testing data sets)
+	8. SIMLICITY AND FLEXIBILITY ARE YOUR ALLIES:
+	9. CREATE A CHAMPION/CHALLENGER TESTING APPROACH
+	10. WHAT IS YOUR "UNDO" plan
+		- Taking the model out of production without damanging other linked systems.
+		- Test the model UNDO.
 
 Thanks to each speakers (Brian, Sebastian, Billy, Mia, Chris) for covering your insights.
