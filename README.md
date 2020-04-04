@@ -107,4 +107,4 @@ Short Notes on the Pie & AI | AI Deployment Webinar on 4th April, 2020
 		- Taking the model out of production without damanging other linked systems.
 		- Test the model UNDO.
 
-Thanks to each speakers (Brian, Sebastian, Billy, Mia, Chris) for covering your insights.
+Thanks to each speakers (Brian, Sebastian, Billy, Mia, Chris, Clendaniel) for covering your insights.
